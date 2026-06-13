@@ -78,9 +78,9 @@ The site will consist of four main semantic sections:
    * Contact button: Direct link to email (`Nurlaila.thw@gmail.com`)
    * An elegant animated visualization or graphic representing data pipelines/metrics.
 3. **Projects Section (3 Data Analyst Projects):**
-   * **Project 1: Customer Churn Prediction & Modeling** (linked with the churn modeling concept found in your folders, using Python, SQL, and Power BI/Tableau).
-   * **Project 2: Sales Performance & Forecasting Dashboard** (interactive data visualization, cohort analysis, and trend forecasting).
-   * **Project 3: E-commerce Customer Cohort Analysis** (SQL-based cohort analysis showing customer retention and lifetime value).
+   * **Project 1: Churn Modeling in Telco Business** (Machine Learning/Classification analyzing customer retention using XGBoost and Random Forest).
+   * **Project 2: Regression Analysis Predicting Stock Price** (Time Series and Regression modeling utilizing technical indicators and financial sentiment APIs).
+   * **Project 3: Customer Segmentations Using Various Clustering Techniques** (Unsupervised Learning using K-Means and DBSCAN based on customer RFM metrics).
 4. **Contact & Footer Section:**
    * Direct contact links/icons (Email, GitHub, LinkedIn).
    * Copyright and clean branding.
